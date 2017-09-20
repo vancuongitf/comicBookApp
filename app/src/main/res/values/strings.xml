@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CloneData</string>
+    <string name="base_url">http://thichtruyentranh.com/truyen-moi-nhat/trang.%d.html</string>
+</resources>
